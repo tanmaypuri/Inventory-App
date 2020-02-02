@@ -1,0 +1,31 @@
+.btn
+{
+    text-align: center;
+}
+.button
+{
+    color:greenyellow;
+    background-color: blue;
+    position: absolute;
+    top: 35%;
+    right: 45%;
+}
+.wrapper {
+    text-align: center;
+}
+
+.header
+{
+    padding-left: 550px;
+    font-size: 50px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.card{
+    text-align: center;
+    background-color: blueviolet;    
+    height:100px;width:300px;display:flex;justify-content:center;align-items:center;
+
+}
